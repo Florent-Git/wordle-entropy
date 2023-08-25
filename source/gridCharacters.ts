@@ -1,0 +1,12 @@
+export const BOX_H = '\u2500';
+export const BOX_V = '\u2502';
+export const BOX_UR = '\u2510';
+export const BOX_UL = '\u250c';
+export const BOX_LR = '\u2518';
+export const BOX_LL = '\u2514';
+export const BOX_CROSS = '\u253c';
+export const BOX_TU = '\u252c';
+export const BOX_TD = '\u2534';
+export const BOX_TR 	= '\u2524';
+export const BOX_TL 	= '\u251c';
+export const BOX_E = ' ';
